@@ -5,7 +5,7 @@ This is a Python program that reads module grades and credit from a spreadsheet 
 ## Acknowledgments
 
 This program was created as a practice project for learning Python and pandas.
-The program was inspired by similar GPA calculators found online.
+
 
 
 
